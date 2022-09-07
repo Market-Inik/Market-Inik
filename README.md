@@ -78,7 +78,7 @@ Flow Navigation (Screen to Screen)
 
 ###[BONUS] Digital Wireframes & Mockups
 ###[BONUS] InteSchema 
-https://github.com/Gaeph/Market-Inik/blob/main/photo_2022-09-05_23-31-10.jpg
+https://github.com/Market-Inik/Market-Inik/blob/main/photo_2022-09-05_23-31-10.jpg
 [This section will be completed in Unit 9]
 
 ##Models
