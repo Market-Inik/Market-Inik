@@ -76,7 +76,7 @@ Main page to seller account
 [Product details to add to basket]
 …
 ##Wireframes
-[Add picture of your hand sketched wireframes in this section]
+[https://github.com/Market-Inik/Market-Inik/blob/main/click.jpg]
 
 
 ###[BONUS] Digital Wireframes & Mockups
