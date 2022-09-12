@@ -87,8 +87,11 @@ Main page to seller account
 [                                             for creating a new account
 
 Property	                         Type	            Description
+
 Id(Customer/Vendor)	            String	            the full name of the user this is for Single Use
+
 Id(Email)	                        String	            email (single email)
+
 New and confirm password	String	            username password
 
             
@@ -120,8 +123,11 @@ Products List	            String	            Orientation/number
 
                         **Product details screen
 Property	                        Type	            Description
+
 Image	                        File	            Product picture
+
 Product Details/Information	String	            Selected product information
+
 Products List	            String	            Orientation/number
 
 ]
