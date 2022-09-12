@@ -134,7 +134,7 @@ Products List	            String	            Orientation/number
 ]
 
 ###Networking
-[Create an account and log in
+[     				Create an account and log in
 CRUD	HTTP	Description
 create	ID	Create ID
 
@@ -145,10 +145,11 @@ read	Get	Read the information of the available products
 
 
                                     Adding a new product
-Creer	PPOST	Créer un contenu
+Create	POST	Create content
 read	Get	See product contents and details
 update 	Put	Modification of product information and image
 delete	Delete	Delete Content
+
 ]
 [Create basic snippets for each Parse network request]
 [OPTIONAL: List endpoints if using existing API such as Yelp]
