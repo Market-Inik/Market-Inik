@@ -84,18 +84,19 @@ Main page to seller account
 [This section will be completed in Unit 9]
 
 ##Models
-[                                         for creating a new account
-Property	Type	Description
-Id(Customer/Vendor)	String	the full name of the user this is for Single Use
-Id(Email)	String	email (single email)
-New and confirm password	String	username password
+[                                             for creating a new account
+
+Property	                         Type	            Description
+Id(Customer/Vendor)	            String	            the full name of the user this is for Single Use
+Id(Email)	                        String	            email (single email)
+New and confirm password	String	            username password
 
             
                                                     login screen
-Property	Type	Description
-Id(Email)	String	User email
-Id(Email)	String	 Enter email 
-password	String	username password
+Property	            Type	                        Description
+Id(Email)	            String	                         User email
+Id(Email)	            String	                         Enter email 
+password	            String	                        username password
 
 
 
@@ -107,18 +108,21 @@ password	String	username password
 
 
 Data Show Explorer Screen
-Property	Type	Description
-Image	File	Product picture
-details on the
-(Products available)	String	Product Information
-Products List	String	Orientation/number
+Property	                         Type	            Description
+
+Image	                         File	            Product picture
+            
+ details on the
+(Products available)	            String	            Product Information
+
+Products List	            String	            Orientation/number
 
 
-**Product details screen
-Property	Type	Description
-Image	File	Product picture
-Product Details/Information	String	Selected product information
-Products List	String	Orientation/number
+                        **Product details screen
+Property	                        Type	            Description
+Image	                        File	            Product picture
+Product Details/Information	String	            Selected product information
+Products List	            String	            Orientation/number
 
 ]
 
