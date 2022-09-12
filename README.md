@@ -84,7 +84,8 @@ Main page to seller account
 [This section will be completed in Unit 9]
 
 ##Models
-[                                             for creating a new account
+[                           
+                                    for creating a new account
 
 Property	                         Type	            Description
 
