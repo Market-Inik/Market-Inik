@@ -78,10 +78,10 @@ Main page to seller account
 ##Wireframes
 [https://github.com/Market-Inik/Market-Inik/blob/main/click.jpg]
 
-
+[]
 ###[BONUS] Digital Wireframes & Mockups
 ###[BONUS] InteSchema
-[This section will be completed in Unit 9]
+[https://imgur.com/ytLN8Vj]
 
 ##Models
 [                           
